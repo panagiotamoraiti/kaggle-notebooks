@@ -16,6 +16,5 @@ If you find them useful, please consider upvoting.
     - Scikit-learn
     - Gradient Boosting Trees 
     - FastAI
-    - Neural Networks 
     - AutoGluon 
     - Ensemble techniques (hill climbing, stacking, etc.) 
